@@ -1,0 +1,17 @@
+
+#posts-container {font-size: 14px;}
+ #post-template { list-style-type: none; margin: 1px; 
+    padding: 0; }
+ .group {
+    background: #cedc98;
+    border: 1px solid #DDDDDD;
+  }
+  .invisible{
+display: none;
+  }
+  h2{
+      font-size: 42px;
+      font-weight: 700;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: steelblue;
+  }

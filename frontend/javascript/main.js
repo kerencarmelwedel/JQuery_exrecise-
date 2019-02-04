@@ -22,7 +22,8 @@
 {
 	const $postTemplate = document.querySelector("#post-template");
 	const $postsContainer= document.querySelector("#posts-container");
-	
+    
+    //TODO: remember what we talked about. this will happen before the request has finished. And also, you probably want to do querySelectorAll and then loop through all the elements with the class invisible
   	document.querySelector(".invisible").classList.remove("invisible");
 
 	function createElemFromPost(rawPost) {

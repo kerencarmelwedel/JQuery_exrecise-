@@ -1,3 +1,4 @@
+//TODO: Great job!
 class Post {
 	constructor(id, title, poster, content) {
 		this.id = id;
